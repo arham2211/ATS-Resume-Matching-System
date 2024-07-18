@@ -1,7 +1,3 @@
-Sure! Here's a professional README file for your ATS Resume Matching System project:
-
----
-
 # ATS Resume Matching System
 
 ## Overview
@@ -62,33 +58,7 @@ Ensure you have the following installed:
 ## Project Structure
 
 - `app.py`: Main application file containing the Streamlit interface.
-- `utils.py`: Utility functions for PDF conversion, image processing, and AI model integration.
 - `requirements.txt`: List of required Python libraries.
 - `README.md`: Project documentation.
 
-## Contributing
 
-We welcome contributions! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Thanks to the Streamlit team for providing a robust framework for building interactive web applications.
-- Inspired by the need for efficient recruitment tools in the HR industry.
-
-## Contact
-
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Feel free to modify this README to better fit the specifics of your project and to include any additional information that might be relevant.
